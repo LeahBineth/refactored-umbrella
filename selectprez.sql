@@ -1,1 +1,2 @@
-select * from president
+select * 
+from president p
